@@ -1,6 +1,6 @@
 # Quant Dev Journey 
 
-Documenting my daily progress as I learn C++, DSA, and work toward Quant Trader / Quant Researcher roles.
+Documenting my daily progress as I learn C++, DSA, and work toward Quant Developer / Quant Researcher roles.
 
 No shortcuts — just consistent daily practice, logged here.
 
