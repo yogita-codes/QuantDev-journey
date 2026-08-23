@@ -19,7 +19,7 @@ No shortcuts — just consistent daily practice, logged here.
 | Day | Date | What I Learned |
 |-----|------|-----------------|
 | 1   |22/8/26| C++ basics|
-| 2   |      |                  |
+| 2   |23/8/26|C++ loops & conditional|
 
 ---
 
