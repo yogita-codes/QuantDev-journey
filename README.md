@@ -16,11 +16,11 @@ No shortcuts — just consistent daily practice, logged here.
 
 ##  Daily Log
 
-| Day | Date | What I Learned | notes |
+| Day | Date | What I Learned |
 |-----|------|-----------------|
-| 1   |22/8/26| C++ basics|----|
-| 2   |23/8/26|C++ loops & conditional|----|
-| 3   |24/8/26|pointers and references | pointers.cpp|
+| 1   |22/8/26| C++ basics|
+| 2   |23/8/26|C++ loops & conditional|
+| 3   |24/8/26|pointers and references |
 
 ##  Current Focus
 
