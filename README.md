@@ -21,6 +21,7 @@ No shortcuts — just consistent daily practice, logged here.
 | 1   |22/8/26| C++ basics|
 | 2   |23/8/26|C++ loops & conditional|
 | 3   |24/8/26|pointers and references |
+| 4   |26/8/26|classes vs struct|
 
 ##  Current Focus
 
