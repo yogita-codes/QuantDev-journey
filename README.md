@@ -23,6 +23,7 @@ No shortcuts — just consistent daily practice, logged here.
 | 3   |24/8/26|pointers and references |
 | 4   |26/8/26|classes vs struct|
 | 5   |27/8/26|classes and Objects|
+| 6   |28/8/26|static and enum |
 
 ##  Current Focus
 
