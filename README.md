@@ -24,8 +24,8 @@ No shortcuts — just consistent daily practice, logged here.
 | 4   |26/8/26|classes vs struct|
 | 5   |27/8/26|classes and Objects|
 | 6   |28/8/26|static and enum |
-| 7   |29/8/26|constuctor in cpp |
-| 8   |30/8/26|leetcode problems & deconstructor|
+| 7   |29/8/26|leetcode problems |
+| 8   |30/8/26|constructor & deconstructor|
 
 ##  Current Focus
 

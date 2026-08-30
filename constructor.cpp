@@ -29,6 +29,10 @@ public:
     {
         std::cout << x << std::endl;
     } 
+    ~Entity()
+    {
+        std::cout << "Destroyed Entity" << std::endl;
+    }
 };
 int main()
 {
@@ -49,3 +53,8 @@ int main()
 // values. In the code above, the parameterized constructor initializes the member variable `x` with the provided value and prints a message indicating that an Entity has been created with that value.
 // 3. Copy constructor: A constructor that takes an object of the same class as an argument and initializes the new object with the values of the existing object. In the code above, 
 // the copy constructor initializes the member variable `x` with the value of the `other` object and prints a message indicating that an Entity has been copied with that value. 
+
+
+// destructor is a special member function of a class that is executed whenever an object of that class goes out of scope or is explicitly deleted. 
+// It has the same name as the class preceded by a tilde (~) and does not have a return type. In the code above, the destructor prints a message indicating that an Entity has been destroyed.
+//  deconstuctor runs first for the last object created
