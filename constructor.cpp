@@ -46,7 +46,8 @@ int main()
     return 0;
 }
 
-// constructor is a special member function of a class that is executed whenever we create new objects of that class. It has the same name as the class and does not have a return type. There are different types of constructors in C++:
+// constructor is a special member function of a class that is executed whenever we create new objects of that class. It has the same name as the class and does not have a return type. 
+// There are different types of constructors in C++:
 // 1. Default constructor: A constructor that takes no arguments. It is used to initialize objects with default values.
 // In the code above, the default constructor initializes the member variable `x` to 0 and prints a message indicating that an Entity has been created.
 // 2. Parameterized constructor: A constructor that takes arguments to initialize an object with specific
@@ -58,3 +59,5 @@ int main()
 // destructor is a special member function of a class that is executed whenever an object of that class goes out of scope or is explicitly deleted. 
 // It has the same name as the class preceded by a tilde (~) and does not have a return type. In the code above, the destructor prints a message indicating that an Entity has been destroyed.
 //  deconstuctor runs first for the last object created
+// if we do not define a destructor, the compiler will provide a default destructor that does nothing. 
+// However, if we have dynamically allocated memory or resources in our class, we should define a destructor to release those resources and avoid memory leaks.
