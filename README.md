@@ -26,6 +26,8 @@ No shortcuts — just consistent daily practice, logged here.
 | 6   |28/8/26|static and enum |
 | 7   |29/8/26|leetcode problems |
 | 8   |30/8/26|constructor & deconstructor|
+| 9   |1/9/26 |Banking system using oops |
+| 10  |4/9/26 |inheritance |
 
 ##  Current Focus
 
