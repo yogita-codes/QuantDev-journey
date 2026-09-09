@@ -16,18 +16,18 @@ No shortcuts — just consistent daily practice, logged here.
 
 ##  Daily Log
 
-| Day | Date | What I Learned |
-|-----|------|-----------------|
-| 1   |22/8/26| C++ basics|
-| 2   |23/8/26|C++ loops & conditional|
-| 3   |24/8/26|pointers and references |
-| 4   |26/8/26|classes vs struct|
-| 5   |27/8/26|classes and Objects|
-| 6   |28/8/26|static and enum |
-| 7   |29/8/26|leetcode problems |
-| 8   |30/8/26|constructor & deconstructor|
-| 9   |1/9/26 |Banking system using oops |
-| 10  |4/9/26 |inheritance |
+| Day | What I Learned |
+|-----|-----------------|
+| 1   | C++ basics|
+| 2   |C++ loops & conditional|
+| 3   | pointers and references |
+| 4   |classes vs struct|
+| 5   |classes and Objects|
+| 6   |static and enum |
+| 7   |leetcode problems |
+| 8   |constructor & deconstructor|
+| 9   |Banking system using oops |
+| 10  |inheritance |
 
 ##  Current Focus
 
