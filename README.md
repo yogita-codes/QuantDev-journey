@@ -28,6 +28,7 @@ No shortcuts — just consistent daily practice, logged here.
 | 8   |constructor & deconstructor|
 | 9   |Banking system using oops |
 | 10  |inheritance |
+| 11  |standard template library|
 
 ##  Current Focus
 
