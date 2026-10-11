@@ -27,9 +27,31 @@ int main(){
     getline(fin, str);
     //reads the one line from the file
     getline(fin, st2);
-    cout<<str<<endl;
-    cout<<st2<<endl;
+    // cout<<str<<endl;
+    // cout<<st2<<endl;
     fin.close();
+
+    ofstream write;
+    write.open("sample.txt");
+    // opening file using member function open()
+    write<<"This is a new line added to the file.";
+    write<<"";
+    write<<"This is another new line added to the file.";
+    write.close();
+
+    ifstream read;
+    read.open("sample.txt");
+    // opening file using member function open()
+    string str1;
+    while(getline(read, str1)){ //if file contain blank line loop will terminate
+        cout<<str1<<endl;
+    }
+    while(read.eof()==0){ //if file contain blank line loop will not terminate
+        getline(read, str1);
+        cout<<str1<<endl;
+    }
+    read.close();
+
 
     return 0;
 }
